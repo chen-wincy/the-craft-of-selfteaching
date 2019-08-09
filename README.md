@@ -6,7 +6,6 @@
 
 > 没有自学能力的人没有未来
 
-**作者：李笑来**
 
 ```python
 # pseudo-code of selfteaching in Python
